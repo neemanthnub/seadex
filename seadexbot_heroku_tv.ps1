@@ -1,7 +1,7 @@
 # I (senjou) am not the author of this script. Fuzz#3212 is the og creator. I just added a logging feature to know whether the script running fine on server or not
 
-$discordHook = ""
-$logdiscordHook = ""
+$discordHook = "https://discordapp.com/api/webhooks/925572336000827403/LLEILbvWOIfNGW93r8eVvw3QYV3B_N_d95RyEXp2Ihi-y3wV7NoJkWj4zWFqGRN-4ISo"
+$logdiscordHook = "https://discordapp.com/api/webhooks/925591383337742358/cL29JEymwcWOtpAM3oA40wHMMPKz8Fc-cdjT2YKz4DbQdwVfFrKqmeNesozahFI7s6Ed"
 $seadexURL = "https://docs.google.com/spreadsheets/d/1emW2Zsb0gEtEHiub_YHpazvBd4lL4saxCwyPhbtxXYM"
 
 $rootDir = $pwd
